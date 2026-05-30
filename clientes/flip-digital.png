@@ -1,0 +1,16 @@
+<svg id="Grupo_225" data-name="Grupo 225" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.782" height="66.436" viewBox="0 0 110.782 66.436">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_110" data-name="Retângulo 110" width="110.782" height="66.436" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_225-2" data-name="Grupo 225" clip-path="url(#clip-path)">
+    <path id="Caminho_115" data-name="Caminho 115" d="M984.064,471.766a7.98,7.98,0,0,0-8.035,7.924c0,.173,0,.346.013.518a7.979,7.979,0,0,0,7.5,8.428c.172.011.345.015.518.014a7.982,7.982,0,0,0,8.035-7.927q0-.257-.013-.515a7.981,7.981,0,0,0-7.509-8.427q-.256-.015-.513-.013M976.4,509.3H967.42V464.882h8.86v3.713a12.748,12.748,0,0,1,10.237-4.909c8.5,0,14.548,6.824,14.547,16.523s-5.986,16.523-14.547,16.523a12.429,12.429,0,0,1-10.118-4.909Z" transform="translate(-910.331 -442.867)" fill="#732b90"/>
+    <path id="Caminho_116" data-name="Caminho 116" d="M1080.531,422.447h-5.28v-5.28h-5.083v5.28h-5.279v5.083h5.279v5.278h5.083V427.53h5.28Z" transform="translate(-974.831 -412.085)" fill="#732b90"/>
+    <path id="Caminho_117" data-name="Caminho 117" d="M1095.523,407.224h5.279V412.5h5.083V402.141h-10.362Z" transform="translate(-995.103 -402.141)" fill="#6de832"/>
+    <path id="Caminho_118" data-name="Caminho 118" d="M881.245,474.332h0a8.981,8.981,0,0,1-8.981-8.981V431.645h8.981Z" transform="translate(-847.362 -421.665)" fill="#732b90"/>
+    <rect id="Retângulo_109" data-name="Retângulo 109" width="8.981" height="30.652" transform="translate(41.065 22.014)" fill="#732b90"/>
+    <path id="Caminho_119" data-name="Caminho 119" d="M928.652,430.72a4.886,4.886,0,1,1-4.886-4.886,4.886,4.886,0,0,1,4.886,4.886" transform="translate(-878.21 -417.82)" fill="#732b90"/>
+    <path id="Caminho_120" data-name="Caminho 120" d="M811.892,441.685a3.419,3.419,0,0,1,.947-2.662c.692-.668,1.69-.787,3.175-.787h2.365v-6.592H814.37a13.885,13.885,0,0,0-8.055,2.3q-3.075,2.3-3.075,7.746v3.51h-4.6v6.476h4.6v22.653l8.651,0V451.671h7.232V445.2h-7.232Z" transform="translate(-798.644 -421.665)" fill="#732b90"/>
+  </g>
+</svg>
