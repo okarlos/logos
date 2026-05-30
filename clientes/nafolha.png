@@ -1,0 +1,15 @@
+<svg width="400" height="400" viewBox="0 0 400 400" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Símbolo nafolha</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Nota fiscal outline branca grossa com checkmark verde espesso cruzando o canto superior direito</desc>
+
+  <defs>
+    <mask id="notaMask">
+      <rect width="400" height="400" fill="white"/>
+      <polyline points="145,175 210,240 345,40" fill="none" stroke="black" stroke-width="80" stroke-linecap="round" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+
+  <path d="&#10;    M60 100&#10;    L340 100&#10;    L340 320&#10;    Q322.5 300 305 320&#10;    Q287.5 340 270 320&#10;    Q252.5 300 235 320&#10;    Q217.5 340 200 320&#10;    Q182.5 300 165 320&#10;    Q147.5 340 130 320&#10;    Q112.5 300 95 320&#10;    Q77.5 340 60 320&#10;    L60 100&#10;    Z&#10;  " fill="none" stroke="#ffffff" stroke-width="32" stroke-linejoin="round" mask="url(#notaMask)" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:32px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <polyline points="145,175 210,240 345,40" fill="none" stroke="#6abf3a" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(106, 191, 58);color:rgb(255, 255, 255);stroke-width:44px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
